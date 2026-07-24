@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rosevillerestorationsquad.com/sitemap.xml
